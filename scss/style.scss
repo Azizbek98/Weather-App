@@ -1,2 +1,6 @@
 // Variables
-@use "vars";
+@import "vars";
+
+body {
+  background-color: $bg-aqi-1;
+}
