@@ -1,9 +1,8 @@
-// Normalize.css - styles reset
+// Normalize.css - removes default browser styles
 @import "normalize";
 
-// Variables
+// Style variables
 @import "vars";
 
-body {
-  background-color: $bg-aqi-1;
-}
+// Initial common styles
+@import "common";
